@@ -312,6 +312,7 @@ body {
   left: 5px;
   top: 10px;
   opacity: 15%;
+  width: 95%;
 }
 
 .quadrant:hover .hiddenBlog2 {
